@@ -46,9 +46,9 @@ the 8,192-byte cap, no file over 4,096.
 
 | trial | Elo | W/D/L |
 |-------|-----|-------|
-| trial-0 | 1545 | 4/1/1 |
-| trial-1 | 1451 | 2/4/0 |
-| trial-2 | 1279 | 2/2/2 |
+| trial-0 | 1364 | 3/1/2 |
+| trial-1 | 1654 | 5/0/1 |
+| trial-2 | 1545 | 4/1/1 |
 
 Mean ≈ 1425, practice floor is 1,154. The first submission of the
 previous engine scored 876 officially; this is a rewrite (the old
